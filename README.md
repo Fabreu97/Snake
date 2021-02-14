@@ -4,10 +4,10 @@
 	<img src="image/photo1.jpg" alt="imagem do jogo">
 	<img src="image/photo2.jpg" alt="imagem do jogo">
 
-##Objetivo:
+## Objetivo:
 	Comer o máximo de comida(blocos vermelhos na tela) sem colidir com as paredes e com seu próprio corpo.
 	
-##Padronizado:
+## Padronizado:
 
 - tamanho dos blocos(mudar por meio da macro BLOCKSIZE no arquivo "Game.h")
 - capacidade de blocos no mapa(mudar pelas macros BLOCKX e BLOCKY no arquivo "Game.h")
@@ -15,7 +15,7 @@
 - Tamanho inicial da Cobra(...)
 - Tempo da cobra movimenta um bloco(udar pela macro SLEEP no arquivo Snake.h)
 
-##Atualizações Futuras:
+## Atualizações Futuras:
 
 - Mostrar a Pontuação durante o jogo;
 - Criação de menus de pause, menu de records, menu inicial;
