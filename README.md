@@ -1,8 +1,8 @@
 # Snake
 	
 	Imitação do famosos joguinho da cobrinha.
-	<img src="image/photo1.jpg" alt="imagem do jogo">
-	<img src="image/photo2.jpg" alt="imagem do jogo">
+	<img src="image/photo01.jpg" alt="imagem do jogo">
+	<img src="image/photo02.jpg" alt="imagem do jogo" align="center" width="500">
 
 ## Objetivo:
 	Comer o máximo de comida(blocos vermelhos na tela) sem colidir com as paredes e com seu próprio corpo.
