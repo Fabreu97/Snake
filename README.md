@@ -1,11 +1,11 @@
 # Snake
 	
-Imitação do famosos joguinho da cobrinha.
+Imitação do famosos joguinho da cobrinha usando a biblioteca gráfica SFML para criação.
 
 <img src="image/photo01.jpg" alt="imagem do jogo">
 <img src="image/photo02.jpg" alt="imagem do jogo">
 
-## Objetivo:
+## Regras:
 Comer o máximo de comida(blocos vermelhos na tela) sem colidir com as paredes e com seu próprio corpo.
 	
 ## Padronizado:
